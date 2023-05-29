@@ -22,14 +22,14 @@
 <body>
 
     <!-- preloader area start -->
-    <div class="preloader" id="preloader">
+    <!-- <div class="preloader" id="preloader">
         <div class="preloader-inner">
             <div class="spinner">
                 <div class="dot1"></div>
                 <div class="dot2"></div>
             </div>
         </div>
-    </div>
+    </div> -->
     search popup area start
     <div class="search-popup" id="search-popup">
         <form action="home.html" class="search-form">
@@ -70,7 +70,7 @@
                 <a class="main-logo" href="index.html"><img src="wp-content/themes/kiantehtml/assets/img/logo.png" alt="img"></a>
                 <div class="responsive-mobile-menu">
                     <div class="logo d-lg-none d-block">
-                        <a class="main-logo" href="index.html"><img src="assets/img/logo.png" alt="img"></a>
+                        <a class="main-logo" href="index.html"><img src="wp-content/themes/kiantehtml/assets/img/logo.png" alt="img"></a>
                     </div>
                     <button class="menu toggle-btn d-block d-lg-none" data-target="#miralax_main_menu" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="icon-left"></span>
@@ -204,7 +204,7 @@
                         <div class="col-lg-6">
                             <div class="media-post-wrap">
                                 <div class="thumb mb-4">
-                                    <img src="assets/img/blog/business-people.jpg" alt="img">
+                                    <img src="wp-content/themes/kiantehtml/assets/img/blog/business-people.jpg" alt="img">
                                 </div>
                                 <div class="media-body ms-0">
                                     <a class="tag top-right tag-pest" href="#">Business</a>
@@ -230,7 +230,7 @@
                         <div class="col-lg-6">
                             <div class="media-post-wrap">
                                 <div class="thumb mb-4">
-                                    <img src="assets/img/blog/planning.jpg" alt="img">
+                                    <img src="wp-content/themes/kiantehtml/assets/img/blog/planning.jpg" alt="img">
                                 </div>
                                 <div class="media-body ms-0">
                                     <a class="tag top-right tag-purple" href="#">Marketing</a>
@@ -313,7 +313,7 @@
                     </div>
                     <div class="media-post-wrap-3 media">
                         <div class="thumb">
-                            <img src="assets/img/blog/obama.jpg" alt="img">
+                            <img src="wp-content/themes/kiantehtml/assets/img/blog/obama.jpg" alt="img">
                         </div>
                         <div class="media-body">
                             <h6><a href="blog-category.html">Obama avoids crowds outside Edinburgh charity dinner.</a></h6>
@@ -328,7 +328,7 @@
                     </div>
                     <div class="media-post-wrap-3 media">
                         <div class="thumb">
-                            <img src="assets/img/blog/parliament-img.jpg" alt="img">
+                            <img src="wp-content/themes/kiantehtml/assets/img/blog/parliament-img.jpg" alt="img">
                         </div>
                         <div class="media-body">
                             <h6><a href="blog-category.html">Imagination is more important than knowledge buildup.</a></h6>
@@ -343,7 +343,7 @@
                     </div>
                     <div class="media-post-wrap-3 media">
                         <div class="thumb">
-                            <img src="assets/img/blog/paper-thumb.jpg" alt="img">
+                            <img src="wp-content/themes/kiantehtml/assets/img/blog/paper-thumb.jpg" alt="img">
                         </div>
                         <div class="media-body">
                             <h6><a href="blog-category.html">Apollo astronauts harmed by a the deep space radiation.</a></h6>
@@ -358,7 +358,7 @@
                     </div>
                     <div class="media-post-wrap-3 media">
                         <div class="thumb">
-                            <img src="assets/img/blog/neon-light.jpg" alt="img">
+                            <img src="wp-content/themes/kiantehtml/assets/img/blog/neon-light.jpg" alt="img">
                         </div>
                         <div class="media-body">
                             <h6><a href="blog-category.html">The golden rules of midlife fitness and things getting wrong.</a></h6>
@@ -378,7 +378,7 @@
                         <div class="post-grid-slider owl-carousel">
                             <div class="item">
                                 <div class="thumb">
-                                    <img src="assets/img/blog/1.jpg" alt="img">
+                                    <img src="wp-content/themes/kiantehtml/assets/img/blog/1.jpg" alt="img">
                                 </div>
                                 <div class="details">
                                     <p>When working remotely and having to manage your own time, it is not uncommon for breaks to be overlooked.</p>
@@ -478,7 +478,7 @@
                     </div>
                     <div class="media-post-wrap mg-bottom-40">
                         <div class="thumb mb-4">
-                            <img class="w-100" src="assets/img/blog/country-parliament.jpg" alt="img">
+                            <img class="w-100" src="wp-content/themes/kiantehtml/assets/img/blog/country-parliament.jpg" alt="img">
                         </div>
                         <div class="media-body ms-0">
                             <a class="tag top-right tag-purple" href="#">Politics</a>
@@ -504,7 +504,7 @@
                         <div class="col-lg-6">
                             <div class="media-post-wrap-3 media">
                                 <div class="thumb">
-                                    <img src="assets/img/blog/techboy.jpg" alt="img">
+                                    <img src="wp-content/themes/kiantehtml/assets/img/blog/techboy.jpg" alt="img">
                                 </div>
                                 <div class="media-body">
                                     <h6><a href="blog-category.html">Intel’s horseshoe bend concept is a look at the future of foldable.</a></h6>
@@ -521,7 +521,7 @@
                         <div class="col-lg-6">
                             <div class="media-post-wrap-3 media">
                                 <div class="thumb">
-                                    <img src="assets/img/blog/social-cut.png" alt="img">
+                                    <img src="wp-content/themes/kiantehtml/assets/img/blog/social-cut.png" alt="img">
                                 </div>
                                 <div class="media-body">
                                     <h6><a href="blog-category.html">The golden rules of midlife fitness and things getting wrong.</a></h6>
@@ -576,7 +576,7 @@
                     <div class="video-area">
                         <div class="top-post-wrap">
                             <div class="thumb">
-                                <img src="assets/img/blog/nature.jpg" alt="img" style="opacity: 1;">
+                                <img src="wp-content/themes/kiantehtml/assets/img/blog/nature.jpg" alt="img" style="opacity: 1;">
                                 <a class="video-play-btn" href="#" data-effect="mfp-zoom-in"><img src="assets/img/icon/play.png" alt="img"></a>
                             </div>
                             <div class="top-post-details">
@@ -600,7 +600,7 @@
                             <div class="col-lg-6">
                                 <div class="top-post-wrap mb-0">
                                     <div class="thumb">
-                                        <img src="assets/img/blog/protest.jpg" alt="img" style="opacity: 1;">
+                                        <img src="wp-content/themes/kiantehtml/assets/img/blog/protest.jpg" alt="img" style="opacity: 1;">
                                         <a class="video-play-btn" href="#" data-effect="mfp-zoom-in"><img src="assets/img/icon/play.png" alt="img"></a>
                                     </div>
                                     <div class="top-post-details">
@@ -612,8 +612,8 @@
                             <div class="col-lg-6">
                                 <div class="top-post-wrap mb-0">
                                     <div class="thumb">
-                                        <img src="assets/img/blog/footballer.jpg" alt="img" style="opacity: 1;">
-                                        <a class="video-play-btn" href="#" data-effect="mfp-zoom-in"><img src="assets/img/icon/play.png" alt="img"></a>
+                                        <img src="wp-content/themes/kiantehtml/assets/img/blog/footballer.jpg" alt="img" style="opacity: 1;">
+                                        <a class="video-play-btn" href="#" data-effect="mfp-zoom-in"><img src="wp-content/themes/kiantehtml/assets/img/icon/play.png" alt="img"></a>
                                     </div>
                                     <div class="top-post-details">
                                         <a class="tag top-right tag-blue" href="#">Sports</a>
@@ -639,7 +639,7 @@
                     </div>
                     <div class="media-post-wrap-3 media">
                         <div class="thumb">
-                            <img src="assets/img/blog/techboy.jpg" alt="img">
+                            <img src="wp-content/themes/kiantehtml/assets/img/blog/techboy.jpg" alt="img">
                         </div>
                         <div class="media-body">
                             <h6><a href="blog-category.html">Intel’s horseshoe bend concept is a look at the future of foldable.</a></h6>
@@ -654,7 +654,7 @@
                     </div>
                     <div class="media-post-wrap-3 media">
                         <div class="thumb">
-                            <img src="assets/img/blog/obama.jpg" alt="img">
+                            <img src="wp-content/themes/kiantehtml/assets/img/blog/obama.jpg" alt="img">
                         </div>
                         <div class="media-body">
                             <h6><a href="blog-category.html">Obama avoids crowds outside Edinburgh charity dinner.</a></h6>
@@ -669,7 +669,7 @@
                     </div>
                     <div class="media-post-wrap-3 media">
                         <div class="thumb">
-                            <img src="assets/img/blog/paper-thumb.jpg" alt="img">
+                            <img src="wp-content/themes/kiantehtml/assets/img/blog/paper-thumb.jpg" alt="img">
                         </div>
                         <div class="media-body">
                             <h6><a href="blog-category.html">Apollo astronauts harmed by a the deep space radiation.</a></h6>
